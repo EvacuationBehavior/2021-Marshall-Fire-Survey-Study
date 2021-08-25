@@ -1,5 +1,5 @@
 # 2019 Kincade Fire Evacuation Household Survey
-Developed by Erica D. Kuligowski (RMIT University, Australia), Ruggiero Lovreglio (Massey University, New Zealand), Xilei Zhao (Civil and Coastal Engineering, University of Florida), Daniel Nilsson (University of Canterbury, New Zealand).
+Developed by Erica D. Kuligowski (RMIT University, Australia), Ruggiero Lovreglio (Massey University, New Zealand), Xilei Zhao (Civil and Coastal Engineering, University of Florida), and Daniel Nilsson (University of Canterbury, New Zealand).
 
 # Required Software
 PDF Reader
