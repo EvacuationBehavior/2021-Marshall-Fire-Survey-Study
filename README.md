@@ -8,7 +8,7 @@ PDF Reader
 Wildfire_Survey_Kincade.pdf: the 2019 Kincade Fire evacuation household survey questionnaire
 
 # Citing this Survey Instrument
-If you found this questionnaire useful for your research, emergency planning and/or decision-making, we would be grateful if you would cite this survey instrument. You can cite the instrument like this:
+If you found this questionnaire useful for your research, emergency planning, and/or decision-making, we would be grateful if you cite this survey instrument. You can cite the instrument like this:
 
 Kuligowski, E. D., Lovreglio, R., Zhao, X., & Nilsson, D. (2021). 2019 Kincade Fire Evacuation Household Survey. https://github.com/EvacuationBehavior/2019-Kincade-Fire-Survey-Study/blob/main/Wildfire%20Survey_Kincade.pdf
 
