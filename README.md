@@ -17,7 +17,7 @@ If you found this questionnaire useful for your research, emergency planning, an
 Kuligowski, E. D., Lovreglio, R., Zhao, X., & Nilsson, D. (2021). 2019 Kincade Fire Evacuation Household Survey. https://github.com/EvacuationBehavior/2019-Kincade-Fire-Survey-Study/blob/main/Wildfire_Survey_Kincade.pdf
 
 # Paper
-Under review
+Kuligowski, E. D., Zhao, X., Lovreglio, R., Xu, N., Yang, K., Westbury, A., Nilsson, D., & Brown, N. (2022). Modeling evacuation decisions in the 2019 Kincade fire in California. Safety Science, 146, 105541. https://doi.org/10.1016/j.ssci.2021.105541
 
 # Contact
 For any questions, please contact Dr. Erica Kuligowski via erica.kuligowski@rmit.edu.au.
