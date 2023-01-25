@@ -17,7 +17,7 @@ If you found this questionnaire useful for your research, emergency planning, an
 Kuligowski, E. D., Lovreglio, R., Zhao, X., Yan, X., Cova, T. J., & Nilsson, D. (2021). 2021 Marshall Fire Evacuation Household Survey. https://github.com/EvacuationBehavior/2021-Marshall-Fire-Survey-Study/blob/main/2021%20Marshall%20Fire%20Evacuation%20Household%20Survey.pdf 
 
 # Report
-Coming.
+Forrister, A., Yan, X., Yin, Z., Zhao, X., Cova, T., Lovreglio, R., Nilsson, D., & Kuligowski, E. (2022). Survey of Evacuation Behavior in the 2021 Marshall Fire, Colorado. Natural Hazards Center Quick Response Grant Report Series, 349. Boulder, CO: Natural Hazards Center, University of Colorado Boulder. Available at: https://hazards.colorado.edu/quick-response-report/survey-of-evacuation-behavior-in-the-2021-marshall-fire-colorado. 
 
 # Contact
 For any questions, please contact Dr. Erica Kuligowski via erica.kuligowski@rmit.edu.au.
